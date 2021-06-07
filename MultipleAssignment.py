@@ -16,3 +16,5 @@ x1, y1, z1 = 1, 2, 'a string'
 print(x1)
 print(y1)
 print(z1)
+
+print(1.1)
