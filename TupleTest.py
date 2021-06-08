@@ -18,6 +18,6 @@ tup1 = (50,)
 print(type(tup1))
 
 tup2 = ('google', 'baidu', 2000, 2020)
-tup3 = (1, 2, 3, 4, 5, 6, 7)
-print("tup2[0]:", tup2[0])
-print("tup3[1:5]:", tup3[1:5])
+print(tup2)
+del tup2
+print(tup2)
